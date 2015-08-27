@@ -12,7 +12,9 @@ module.exports = {
   event: {
     //adapter: require('./lib/festival/FestivalsAdapter'),
     views: {
-      EventsScreen: require('./lib/event/views/EventsScreen').EventsScreen
+      EventsScreen: require('./lib/event/views/EventsScreen').EventsScreen,
+      EventCell: require('./lib/event/views/EventCell').EventCell,
+      NoResults: require('./lib/event/views/NoResults').NoResults,
     },
   }
 };
