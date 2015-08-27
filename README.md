@@ -1,20 +1,11 @@
-# festivals-model
-[![npm version](https://badge.fury.io/js/festivals-model.svg)](http://badge.fury.io/js/festivals-model)
-[![Coverage Status](https://coveralls.io/repos/festivals-platform/npm-festivals-model/badge.svg?branch=master)](https://coveralls.io/r/festivals-platform/npm-festivals-model?branch=master)
-[![Build Status](https://travis-ci.org/festivals-platform/npm-festivals-model.svg?branch=master)](https://travis-ci.org/festivals-platform/npm-festivals-model)
-[![Codeship Build Status](https://codeship.com/projects/0d2f22d0-d89f-0132-0797-56577b4e3777/status)](https://codeship.com/projects/78888)
-[![Dependency Status](https://david-dm.org/festivals-platform/npm-festivals-model.svg)](https://david-dm.org/festivals-platform/npm-festivals-model)
-
-[![NPM](https://nodei.co/npm/festivals-model.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/festivals-model/)
-
-Festival app models.
+# festivals-react
 
 ## Installation
 
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install festivals-model --save
+npm install festivals-react --save
 ```
 
 
