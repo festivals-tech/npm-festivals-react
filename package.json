@@ -1,0 +1,45 @@
+{
+  "name": "festivals-react",
+  "version": "0.1.0",
+  "description": "Festivals react components",
+  "main": "./index.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "festivals-model": "^0.1.8",
+    "react-native": "^0.9.0",
+    "react-native-sqlite": "0.0.12",
+    "react-timer-mixin": "^0.13.2"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "prepublish": "npm prune",
+    "test": "echo 'No test' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/festivals-tech/npm-festivals-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/festivals-tech/npm-festivals-react/issues"
+  },
+  "keywords": [
+    "festival",
+    "platform",
+    "react"
+  ],
+  "author": {
+    "name": "Zenedith",
+    "email": "zenedith@wp.pl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/festivals-tech/npm-festivals-react",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md",
+  "_id": "festivals-react@0.1.0",
+  "_from": "festivals-react@^0.1.0",
+  "directories": {
+  }
+}
